@@ -1,2 +1,0 @@
-# LuizAI
-Minha IA pessoal
