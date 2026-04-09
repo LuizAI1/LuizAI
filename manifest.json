@@ -1,7 +1,7 @@
 {
   "name": "LuizAI",
   "short_name": "LuizAI",
-  "start_url": "/LuizAI/index.html",
+  "start_url": "/luizai/index.html",
   "display": "standalone",
   "background_color": "#212121",
   "theme_color": "#9b59f5",
