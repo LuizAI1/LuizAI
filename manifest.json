@@ -1,7 +1,7 @@
 {
   "name": "luizai",
   "short_name": "luizai",
-  "start_url": "/luizai/index.html",
+  "start_url": "/luizai/",
   "display": "standalone",
   "background_color": "#212121",
   "theme_color": "#9b59f5",
